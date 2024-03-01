@@ -5,7 +5,9 @@ The purpose of this branch is to share my code to analyse a GPS records in Londo
 The analysis is mainly about exploring the data and implementing a simple dwelling estimation algorithm.
 
 The dataset can be downloaded/or directly accessed from this link: 
+
 https://gps-london.s3.eu-west-2.amazonaws.com/gps.csv)
+
 **Downloading the dataset might be faster to load if you are planning to close the session multiple times**
 
 Before running the code, kindly install all the necessary libraries (if you have not already).
