@@ -1,6 +1,4 @@
-# gps_dwell
-
-Greetings! My name is Libby Lisandra.
+# Analysing GPS Data
 
 ## 1. Purpose
 The purpose of this branch is to share my code to analyse a GPS records in London dataset.
