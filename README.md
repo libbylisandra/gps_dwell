@@ -21,4 +21,6 @@ These are the python libraries that I use:
 6. scipy.spatial
 7. Folium
 
+**NOTE:** The folium map might not be visible in Github. 
+
 Thank you!
